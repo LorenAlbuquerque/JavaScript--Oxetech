@@ -11,3 +11,5 @@ console.log("serve para imprimir algo na tela")
 /* Node.js permite rodar o JS fora do navegador
 API é um Intermediário entre o servidor e o cliente
 protocolo - HTTP: permite a comunicação entre navegadores (clientes) e servidores web. */
+
+//323232323232323
