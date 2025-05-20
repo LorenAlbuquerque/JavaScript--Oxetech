@@ -1,5 +1,5 @@
 let nome = prompt("Nome: ")
-let peso = parseInt(prompt("Peso: "))
+let peso = Number(prompt("Peso: "))
 let altura = parseFloat(prompt("Altura: "))
 let imc = peso / (altura * altura)
 
